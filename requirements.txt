@@ -1,13 +1,2 @@
-numpy
-typing
-pymupdf
-pdfplumber
-transformers
-presidio_analyzer
-presidio_anonymizer
-sentence_transformers
-streamlit
-pytest
-coveralls
-PyMuPDF
-https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl
+streamlit==0.89.0
+PyMuPDF==1.18.17
